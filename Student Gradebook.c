@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 #define MAX_STUDENTS 50
 #define MAX_NAME_LENGTH 30
 
